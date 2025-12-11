@@ -31,4 +31,5 @@ Il programma simula una piccola sfida tra due giocatori:
 - due giocatori (Mario e Luigi),
 - avvia e sincronizza i thread con start() e join().
 
-## il progetto è stato creato da un ragazzo della classe 5AINF dell ITTS A.Volta di perugia, nelle ore di tpsit grazie anche all'aiuto dei professori: Monica Ciuchetti e Francesco Amendola. 
+## Considerazioni 
+Il progetto è stato sviluppato da un ragazzo della classe 5AINF dell ITTS A.Volta di perugia, nelle ore di tpsit, è stato possibile realizzarlo anche grazie all'aiuto della professoressa Monica Ciuchetti e il professore Francesco Amendola.
